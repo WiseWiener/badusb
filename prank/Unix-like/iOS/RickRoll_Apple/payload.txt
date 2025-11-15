@@ -12,8 +12,8 @@ DELAY 300
 STRING Safari
 DELAY 100
 ENTER
-DELAY 500
-GUI t
+DELAY 100
+GUI SPACE
 STRING https://www.youtube.com/watch?v=xm3YgoEiEDc
 ENTER
 DELAY 1500
